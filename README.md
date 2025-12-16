@@ -1,7 +1,7 @@
 
  <h1 align="center">Hi 👋, I'm Grace Mawia 😊 </h1>
 <h3 align="center">A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.</h3> 
-<p align="center">I enjoy writing code especially backend.</p>
+<p align="center">I enjoy writing code .</p>
 <h3 align="left" >📫 Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/grace-mawia-9b8340269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="malex-kagai linkedin" height="40" width="40" /></a>
